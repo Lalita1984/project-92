@@ -1,0 +1,27 @@
+body
+{
+	background-image: url("https://wallpapercave.com/wp/wp4531533.jpg")
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(31, 238, 41);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        border-width: 6px;
+	}
+
+#button{
+
+background-color : rgb(232, 225, 10);
+height: 30px;
+
+}
+
+
+h1{
+ font-family: cursive;
+
+}
+
